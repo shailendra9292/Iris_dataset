@@ -18,3 +18,5 @@ asked to enter choice among models :
 
 Data is divided into two parts :  Sepal and Petal data and each data is further divided into Train and Test data. Each model is
 well plotted with accuracy mentioned in the right corner of graph.
+
+![sample image]( https://github.com/shailendra9292/Iris_dataset/blob/master/img.png)
