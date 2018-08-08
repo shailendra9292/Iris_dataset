@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 16 19:43:22 2018
-
-@author: MY-FAMILY
-"""
 
 import sys
 from sklearn.datasets import load_iris
